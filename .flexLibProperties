@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<flexLibProperties includeAllClasses="true" useMultiPlatformConfig="false" version="3">
+  <includeClasses>
+    <classEntry path="com.agame.utils.SystemUtil"/>
+    <classEntry path="com.agame.utils.DisplayUtil"/>
+    <classEntry path="com.agame.services.load.ResourceManager"/>
+    <classEntry path="com.agame.framework.Application"/>
+    <classEntry path="com.agame.framework.module.Module"/>
+    <classEntry path="com.agame.framework.event.CommonEvent"/>
+  </includeClasses>
+  <includeResources/>
+  <namespaceManifests/>
+</flexLibProperties>
