@@ -7,6 +7,10 @@
     <classEntry path="com.agame.framework.Application"/>
     <classEntry path="com.agame.framework.module.Module"/>
     <classEntry path="com.agame.framework.event.CommonEvent"/>
+    <classEntry path="com.agame.utils.Beautify"/>
+    <classEntry path="com.agame.utils.choose"/>
+    <classEntry path="com.agame.utils.formatTID"/>
+    <classEntry path="com.agame.services.server.AServer"/>
   </includeClasses>
   <includeResources/>
   <namespaceManifests/>

@@ -37,13 +37,12 @@ package com.agame.framework.module
 		 * 游戏主循环
 		 * @params elapsed 帧间距，单位为ms
 		 * **/
-		function onGameLoop(elapsed:int):void
+		function onGameLoop(elapsed:Number):void
 		
 		function get name():String
 		
 		function get container():*
 		
-		//		function get app():*
 		
 		function get mouduleAPI():IModuleAPI
 		

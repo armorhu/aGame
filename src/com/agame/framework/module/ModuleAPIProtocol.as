@@ -1,4 +1,4 @@
-package com.qzone.qfa.control.module
+package com.agame.framework.module
 {
 	/**
 	 * 模块API调用协议 
